@@ -1,0 +1,1254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The golden garland of most delightful mirth and merriment [Illegible] variety of excellent new songs. This may be printed R.F.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41376</idno>
+            <idno type="STC">Wing G1017</idno>
+            <idno type="STC">ESTC R215536</idno>
+            <idno type="EEBO-CITATION">99827390</idno>
+            <idno type="PROQUEST">99827390</idno>
+            <idno type="VID">31808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1908:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The golden garland of most delightful mirth and merriment [Illegible] variety of excellent new songs. This may be printed R.F.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare, on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Place and year of publication supplied by Wing.</note>
+                  <note>In verse.</note>
+                  <note>Title page woodcut.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31808:1"/>
+            <pb facs="tcp:31808:1" rendition="simple:additions"/>
+            <p>The GOLDEN <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ARLAND <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt Delightful Mirth and Merriment.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ining Variety of Excellent New <hi>SONGS.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of man and woman in foreground, Cupid drawing an arrow in background</figDesc>
+            </figure>
+            <p>This may be Printed, <hi>R. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted for J. Blare, on London-Bridge.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:31808:2" rendition="simple:additions"/>
+            <pb facs="tcp:31808:2" rendition="simple:additions"/>
+            <p>THE <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olden Garland,</hi> OF <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irth <hi>and</hi> Merriment: forth and furniſhed with Variety of excellent New SONGS.</p>
+            <p>The two Loyal Lovers, <hi>William</hi> and <hi>Su<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</hi>
+            </p>
+            <p>The <hi>Barber</hi> bitten by a wanton Miſs of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own.</p>
+            <p>The fearful Combat between the <hi>Barber,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Wife, after they came home together.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Excellent new Song, called true Lovers <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rfect Loyalty, betwixt kind <hi>Coridon</hi> and <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Phillis.</hi>
+            </p>
+            <p>The Welſh-mans Fantaſtical Humors; Or <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>-<hi>Shinkin</hi>'s Fegaries.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Duel betwixt <hi>Anthony</hi> and his Wife, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gether with his Noble Conqueſt.</p>
+            <p>The dear and tender parting of <hi>William</hi> and <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ty:</hi> Being the Seamans Faithful Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe of being true and Loyal.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very pleaſant and delightful both for City and Country.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed for <hi>I. Blare,</hi> at the <hi>Looking-Glaſs</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31808:3" rendition="simple:additions"/>
+            <pb facs="tcp:31808:3" rendition="simple:additions"/>
+            <head>THE Golden Garland Of Mirth and Paſtime, &amp;c.</head>
+            <div type="song">
+               <head>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Two Loyal Lovers, <hi>William</hi> and <hi>Suſan.</hi>
+               </head>
+               <opener>Tune of, <hi>My Life and my Death.</hi>
+               </opener>
+               <lg>
+                  <l>WEll met my ſweet <hi>SUSAN,</hi> whom I do adore,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave not beheld thee this Twelve-month and more,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ther expected to ſee thee again,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> how can you flight me with ſcorn and diſ<g ref="char:EOLhyphen"/>dain?</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ove waſt thou but loyal, I happy ſhould be,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>every moment my thoughts is on thee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:31808:4" rendition="simple:additions"/>
+                  <l>My Love is intire to <hi>Suſan</hi> my dear,</l>
+                  <l>But who wou'd have thought to have met wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thee her</l>
+                  <l>Sure Fortune afforded a fovour in this,</l>
+                  <l>To ſend thee my jewel, let every kiſs</l>
+                  <l>
+                     <hi>Create a deſire, more happy to be</hi>
+                  </l>
+                  <l>
+                     <hi>For every moment my thoughts is on thee</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In thee my ſweet Creature I place my d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>lig<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>For thou art adorned with beauty ſo bright,</l>
+                  <l>That none can excell thee, ſince thou art ſo fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Be kind and not cruel, for woful diſpair,</l>
+                  <l>
+                     <hi>May ruin thy lover, whoſe ſorrow you ſee</hi>
+                  </l>
+                  <l>
+                     <hi>For every moment, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>There's many a Damſel would fain be m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Bri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Young <hi>Nelly</hi> and <hi>Nancy</hi> and <hi>Sarah</hi> beſide,</l>
+                  <l>Nay <hi>Prudence</hi> and <hi>Dolly,</hi> beſide honeſt <hi>Joan,</hi>
+                  </l>
+                  <l>All theſe I muſt tell ye, for me make their mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>But I am thy Captive, and cannot be free,</hi>
+                  </l>
+                  <l>
+                     <hi>ſince every moment, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I pray you be quiet ſweet <hi>William,</hi> ſhe ſaid,</l>
+                  <l>I am not a weary of living a Maid;</l>
+                  <pb facs="tcp:31808:4" rendition="simple:additions"/>
+                  <l>For Houſe-keeping's Chargeable, Rent it is dear,</l>
+                  <l>I do not intend to be Marry'd this Year.</l>
+                  <l>
+                     <hi>Take this for an anſwer, and keep your ſelf free</hi>
+                  </l>
+                  <l>
+                     <hi>And let not your fancy be fixed on me.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For ſhould we be marry'd, we ſoon may inlarge</l>
+                  <l>Our grief with our ſorrows, our trouble and charge,</l>
+                  <l>Beſides I muſt tell you, 'tis not for a day,</l>
+                  <l>A Month, nor a Year, but for ever and aye;</l>
+                  <l>
+                     <hi>Therefore be adviſed, and keep your ſelf free,</hi>
+                  </l>
+                  <l>
+                     <hi>And let not your fancy be fixed on me.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let none of thoſe jealouſies trouble my dear</l>
+                  <l>For I will provide for thee, Love, do not fear;</l>
+                  <l>I dayly will by my induſtrious care,</l>
+                  <l>Provide for my jewel, no labour i'll ſpare;</l>
+                  <l>
+                     <hi>Then prithee be loving, and let us agree,</hi>
+                  </l>
+                  <l>
+                     <hi>For every moment my thoughts are on thee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And though, it is true, we may have no great ſtore,</l>
+                  <l>Yet if we can but keep the Woolf from the door,</l>
+                  <pb facs="tcp:31808:5" rendition="simple:additions"/>
+                  <l>With what I do earn, for i'le carefluly ſave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And doing of this love, what more wou'd w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have?</l>
+                  <l>
+                     <hi>But to live in love, and likewiſe Unity,</hi>
+                  </l>
+                  <l>
+                     <hi>For all my delights are now fixed on thee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now when he had told her his honeſt intent,</l>
+                  <l>She could not deny him, but gave her conſent</l>
+                  <l>Their love in abundance they freely reveal'd,</l>
+                  <l>Though once ſhe deny'd him, at length ſhe did yield</l>
+                  <l>
+                     <hi>To be his moſt tender and dear loving ſpouſe,</hi>
+                  </l>
+                  <l>
+                     <hi>With many ſweet kiſſes they ſealed their vows.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The Barber fitted by a Wanton Miſs of the Town.</head>
+               <opener>To the Tune of, <hi>The Country Farmer.</hi>
+               </opener>
+               <lg>
+                  <l>
+                     <hi>O</hi> Did you not hear of a Barber of late,</l>
+                  <l>When walking abroad how he pickt up a mate</l>
+                  <l>It was I muſt tell you a Girl of the Game,</l>
+                  <l>But yet I declare it, I know not her name</l>
+                  <pb facs="tcp:31808:5" rendition="simple:additions"/>
+                  <l>As <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he was a ranging along in the ſtreet,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h this jolly Barber ſhe chanced to meet,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> freely did proffer to give her a treat,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> now you ſhall hear how he met with a cheat</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y to the Tavern they went in all haſt,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aſs of good Wine he reſolved to taſte,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Miſs was array'd in her Silks and per<g ref="char:EOLhyphen"/>fume,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Drawer he ſhew'd them a large upper room</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Barber he then with a noble grace,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>an then to call for Canary a pace,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ewiſe his kind Miſs he began to embace,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t yet he was ſoon in a ſorrowful caſe.</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Barber reſolving to ſhow himſelf great</l>
+                  <l>call'd up the Drawer to bring up ſome Plate,</l>
+                  <l>Tankard was brought, and they fill'd it with Wine,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en, then they went on in their jovial de<g ref="char:EOLhyphen"/>ſign:</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> this was a Liquor which he did adore,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Barber began for to rant and to rore,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Miſs ſhe did ply him with brimmers good ſtore,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> when all was out ſhe ſtill call'd for more.</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Wine was ſo ſtrong it got into his head,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fore it was night he muſt needs go to bed,</l>
+                  <pb facs="tcp:31808:6" rendition="simple:additions"/>
+                  <l>With his precious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewel, the joy of his lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>He freely declard they were husband and W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Therefore to his Lodging he poſted away,</l>
+                  <l>Which was the next Chamber moſt gallant ga<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>To ſleep with his Miſs till the Morning broad d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>But ſhe had another fine project to play.</l>
+               </lg>
+               <lg>
+                  <l>The Barber no ſooner was laid in his bed,</l>
+                  <l>But all his whoſe ſences was perfectly fled</l>
+                  <l>Now, now is the time, to repleniſh my ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>While he is a ſleeping as faſt as a Rock;</l>
+                  <l>Then out of the bed ſhe ſtraightways a<g ref="char:EOLhyphen"/>ro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Reſolving to take all the beſt of his Cloath<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>His Money, the Tankard, then down ſtai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhe goe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And where ſhe is gone now there's no body know<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Next Morning he finding himſelf all alone,</l>
+                  <l>He ſigh'd and lamenting made pittiful moa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>He found he had loſt all the beſt of his ſuit,</l>
+                  <l>His Money and likewiſe the Tankard to boot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The Shaver was then in a pittiful fear.</l>
+                  <l>For now he was rifled it well did appear.</l>
+                  <pb facs="tcp:31808:6" rendition="simple:additions"/>
+                  <l>He knew not what courſe in the World he ſhould ſteer,</l>
+                  <l>For ſorrow muſt certainly bring up the rear.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he never before was ſo ſerv'd in his life,</l>
+                  <l>Alas, he was forced to ſend for his Wife,</l>
+                  <l>To bring him ſome money to pay for the loſs</l>
+                  <l>And thus the poor Barber he met with a croſs</l>
+                  <l>The barber was noble, both gallant &amp; great,</l>
+                  <l>But now he hath paid for his Drinking in plate;</l>
+                  <l>Let all other Shavers be warn'd by his fate</l>
+                  <l>Leſt you ſhould be ſorry when it is too late.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The fearful Combat between the <hi>Barber</hi> and his Wife, after they came home together.</head>
+               <opener>To the Tune of, <hi>A Jobb for a Journy-man-Shoomaker.</hi>
+               </opener>
+               <lg>
+                  <l>The Barber coming home at laſt,</l>
+                  <l>his Wife did much diſpleaſe him,</l>
+                  <l>For after ſome few hours paſt,</l>
+                  <l>ſhe thus began to teaze him;</l>
+                  <l>You with your Girls can come abroad,</l>
+                  <l>and freely ſpend your treaſure,</l>
+                  <pb facs="tcp:31808:7" rendition="simple:additions"/>
+                  <l>But I poor Soul muſt lye at home,</l>
+                  <l>and have no peace or pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>Then preſently I underſtand,</l>
+                  <l>there was a fearful Battle,</l>
+                  <l>She took the Ladle in her hand,</l>
+                  <l>and made his bones to rattle:</l>
+                  <l>The Barber knew not what to ſay,</l>
+                  <l>he ruin'd was and routed,</l>
+                  <l>In this moſt ſad and bloody fray,</l>
+                  <l>about the room he ſcouted.</l>
+               </lg>
+               <lg>
+                  <l>Sometimes ſhe lug'd him by the Ears,</l>
+                  <l>affording him no pitty,</l>
+                  <l>The Barber then with briniſh tears,</l>
+                  <l>and with this doleful dirty,</l>
+                  <l>O pardon me, and ſpare my life,</l>
+                  <l>that it may be amended,</l>
+                  <l>I never more will wrong my Wife,</l>
+                  <l>thou ſhall not be offended.</l>
+               </lg>
+               <lg>
+                  <l>But this, alas, would not avail,</l>
+                  <l>ſhe laid her blows the faſter,</l>
+                  <l>His courage ſhe reſolv'd to quail,</l>
+                  <l>and ſoon became his Maſter.</l>
+                  <l>You loſt your Cloaths and Money too,</l>
+                  <l>and thus ſhe did beſlave him,</l>
+                  <pb facs="tcp:31808:7" rendition="simple:additions"/>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u Raſcal I will make you rue,</l>
+                  <l>and then a bang ſhe gave him.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he with the Ladle broke his head,</l>
+                  <l>and down the blood did trickle,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e looked then as almoſt dead,</l>
+                  <l>in this moſt fearful pickle:</l>
+                  <l>Then falling down upon his knees,</l>
+                  <l>ſaid he, my deareſt jewel,</l>
+                  <l>I never more will thee diſpleaſe,</l>
+                  <l>ſweet Wife be not ſo cruel.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I can but thy favour gain,</l>
+                  <l>my dear I will adore thee,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad company I will refrain,</l>
+                  <l>and there is none before thee,</l>
+                  <l>Shall ever be by me prefer'd,</l>
+                  <l>then prithee don't deny me;</l>
+                  <l>For thee alone I have regard,</l>
+                  <l>my deareſt do but try me.</l>
+               </lg>
+               <lg>
+                  <l>Well, if I pardon you, ſaid ſhe,</l>
+                  <l>and end this cruel quarrel,</l>
+                  <l>Then you ſhall buy and give to me</l>
+                  <l>a Suit of new Apparel:</l>
+                  <l>The Barber then with Hat in hand;</l>
+                  <l>unto his Wife ſtood criuging,</l>
+                  <pb facs="tcp:31808:8" rendition="simple:additions"/>
+                  <l>And yeilding to her full demand,</l>
+                  <l>to buy hoods Lace, and Fringing.</l>
+               </lg>
+               <lg>
+                  <l>Pray was ſhe not a loving Wife,</l>
+                  <l>of tender pure affection,</l>
+                  <l>Who cauſed him to mend his life,</l>
+                  <l>by giving him correction?</l>
+                  <l>Now ſhe has brought him to her bow,</l>
+                  <l>to him a place is given,</l>
+                  <l>And in the Hen-peck'd Frigat go,</l>
+                  <l>to ſail to Cucolds-Haven.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>An excellent new Song, called, True Lovers perfect Loyalty, betwixt kind <hi>Corydon</hi> and Fair <hi>Phillis.</hi>
+               </head>
+               <opener>Tune of, <hi>O Mother Roger,</hi> &amp;c.</opener>
+               <lg>
+                  <l>AS I was near a Bower walking,</l>
+                  <l>in a morning freſh and gay,</l>
+                  <l>There I heard two Lovers talking,</l>
+                  <l>and the young-man thus did ſay,</l>
+                  <l>Love thoſe glances from thine eyes,</l>
+                  <l>All my ſences does ſurprize,</l>
+                  <pb facs="tcp:31808:8" rendition="simple:additions"/>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>refore if thou ſhouldu deviſe,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me to tyrannize,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y heart will then be wounded ſure,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is thou alone can kill or cure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> beheld a fairer creature,</l>
+                  <l>the Shaves than thee I'le vow;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Honey is not ſweeter</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n thoſe kiſſes you allow;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſweet and pleaſant ſmile,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y ſorrows does beguile;</l>
+                  <l>when thou doſt ſend a frown,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> does clearly caſt me down,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y heart will then be wounded ſure,</hi>
+                  </l>
+                  <l>
+                     <hi>Tis thou, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vp this fair and pleaſant River,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> our little Lambs will feed;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>kewiſe we will endeavour</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> true love ſtill to proceed;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> true and loyal Swa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> attend the Flowry Plain,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thy ſervant will remain,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t requite me with disdain,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t why my love is chaſte and pure,</hi>
+                  </l>
+                  <l>
+                     <hi>Tis thou alone can kill or cure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:31808:9"/>
+                  <l>I oftentimes in Dreams behold thee,</l>
+                  <l>with a thouſand pleaſant Charms,</l>
+                  <l>Ah! and likewiſe do infold thee,</l>
+                  <l>in the Circuits of my Arms:</l>
+                  <l>But when waking from this dream,</l>
+                  <l>In a far and worſe extream,</l>
+                  <l>I am wounded when I ſee</l>
+                  <l>My unhappy Deſtiny,</l>
+                  <l>
+                     <hi>For why my love is chaſt and pure,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis thou alone muſt kill or cure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Why then ſaid he my deareſt jewel,</l>
+                  <l>liſten here to what I ſay,</l>
+                  <l>I can never be ſo cruel,</l>
+                  <l>thus to caſt my Life away:</l>
+                  <l>We will not diſputing ſtand,</l>
+                  <l>Here I give thee Heart and Hand,</l>
+                  <l>No, nor make the leaſt delay,</l>
+                  <l>But appoint a Wedding day:</l>
+                  <l>
+                     <hi>To thee my love is linked faſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Now as long as life does laſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>No ſooner had his Love conſented</l>
+                  <l>to the Bands of Loyalty,</l>
+                  <l>But he was himſelf contented,</l>
+                  <l>both rejoyc'd exceedingly:</l>
+                  <l>Farewell all thoſe clouds of grief,</l>
+                  <l>He at length had found relief:</l>
+                  <pb facs="tcp:31808:9"/>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat fair Nymph that gave the wound,</l>
+                  <l>How at length his joys has Crown'd;</l>
+                  <l>
+                     <hi>For now her heart is linked faſt,</hi>
+                  </l>
+                  <l>
+                     <hi>To love as long as life ſhall laſt.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The Welſh-man's Fantaſtical Humours; Or, <hi>Ap Shinkins</hi> Fegaries.</head>
+               <opener>To the Tune of, <hi>The thundring Cannons rour.</hi>
+               </opener>
+               <lg>
+                  <l>THere was hur <hi>Welſhman</hi> came to Town,</l>
+                  <l>A Paper-ſculled Tanſle Crown,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me of his Humours i'le ſet down,</l>
+                  <l>and this the firſt Relation;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Iack-a-dandy he will jit,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> goes his Hat, out fli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s his Wit,</l>
+                  <l>do declare, he is not fit</l>
+                  <l>for common Scociation.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> you'l believe her idle Tales,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is a Shentleman of <hi>Wales,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſince hur means and ſubſtante fa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ur is become a Railer,</l>
+                  <pb facs="tcp:31808:10"/>
+                  <l>Have you not heard the Lyons roar,</l>
+                  <l>Or elſe the Bears on <hi>Southwark</hi> Shore,</l>
+                  <l>Raiſe hur <hi>Welſh</hi> plood, hur will do more,</l>
+                  <l>an inch hur will not fall hur.</l>
+               </lg>
+               <lg>
+                  <l>Though hur is now to ruin run,</l>
+                  <l>By ſpending all, and thus undone,</l>
+                  <l>Yet hur was <hi>Shon ap Morgans</hi> Son,</l>
+                  <l>'tis known hur had no other;</l>
+                  <l>I pray you now attend and ſee,</l>
+                  <l>Hur Fathers worthy Pedigree,</l>
+                  <l>Was of an ancient Family,</l>
+                  <l>
+                     <hi>ap-Shinkin</hi> was hur Brother.</l>
+               </lg>
+               <lg>
+                  <l>And for hur ancient worthy fame,</l>
+                  <l>Young <hi>Shinkin</hi> now bears up the N<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</l>
+                  <l>And likewiſe hur to <hi>London</hi> came,</l>
+                  <l>which prov'd hur utter ruin;</l>
+                  <l>By living here at ſuch a rare,</l>
+                  <l>Like to a Shentleman ſo great,</l>
+                  <l>Hur waſted all hur whole Eſtate,</l>
+                  <l>this proved hur undoing.</l>
+               </lg>
+               <lg>
+                  <l>O now poor <hi>Shinkin</hi>'s held in ſcorn,</l>
+                  <l>Although hur was ſo Nobly born,</l>
+                  <l>Hur now alas! is quite forlorn,</l>
+                  <l>hur cannot Rant nor Riot:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:31808:10"/>
+                  <l>For ſince her has conſum'd hur Cole,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r cannot feed on Pig nor Fowl,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r yet of Robin-Run-i'th'-hole,</l>
+                  <l>hur muſt have meaner dyet.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen Shinkin all along did look</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> find hur out a Boyling Cook,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t ſée how Shinkin was miſtook,</l>
+                  <l>he did ſuppoſe a Barber</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be a Boyling-Cook, I trow,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cauſe upon his Pole you know,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Diſhes they hang in a Row,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur ſtraight went in for harbour.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r hope there was good dyet here</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> as the truth does well appear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Barber did prepare his Chair,</l>
+                  <l>likewiſe his Balls and Baſon:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Shinkin being in the place</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Barber in a little ſpace</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an to rub and waſh his face</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d then with-ſpeed did haſten</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> trim hur then he did prepare</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Welch-man he began to ſtare</l>
+                  <l>firſt to ſpeak he did not care</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r cleanlineſs did win her:</l>
+                  <pb facs="tcp:31808:11" rendition="simple:additions"/>
+                  <l>But when hur ſee the Razor brought,</l>
+                  <l>Hur then began to change hur note,</l>
+                  <l>Cots-plut, what will hur cut hur throat,</l>
+                  <l>before her eat her Dinner?</l>
+               </lg>
+               <lg>
+                  <l>Hur Welchman than began to roar</l>
+                  <l>And ſtraight way getting out of door,</l>
+                  <l>Hur never will come there no more</l>
+                  <l>although hur ſhould be ſtarved.</l>
+                  <l>The Barber laughed then out-right</l>
+                  <l>As truly very well he might,</l>
+                  <l>To ſee the Welchman in a fright</l>
+                  <l>her will not be ſo ſerved.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The Duel betwixt <hi>Anthony</hi> and his Scolding Wife; together with his noble Conqueſt.</head>
+               <opener>To the tune of <hi>The two Engliſh travellers</hi>
+               </opener>
+               <lg>
+                  <l>Was ever poor Man ſo perplext with a truſt,</l>
+                  <l>as I bonny Anthony, ſince I was wed?</l>
+                  <l>She never will let me have my belly full,</l>
+                  <l>for e're I have ſup'd, I muſt haſten to bed.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:31808:11" rendition="simple:additions"/>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> elſe ſhe'l begin for to ſcold and to brawl,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> calling me Wittal, nay Cuckold and all;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhe with her Cronies muſt troule it about,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hilſt I in my Kennel muſt there ſnore it our.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ence did but go for to drink with a friend,</l>
+                  <l>but ſhe in a trice then did fetch me away,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Two-pence a piece, and no more did ſpend,</l>
+                  <l>and yet it did prove a moſt terrible fray.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e flew in my face and called me Fool.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen Combed my Head with a Three-legged Stool;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd furniſh'd my Face with ſo many Scratches,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat for a whole Month it was cover'd with Patches.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t every Penny I got in the day,</l>
+                  <l>to keep her at quiet, I give her at night,</l>
+                  <l>Or elſe ſhe will licenſe her Tongue then to play,</l>
+                  <l>for two or three hours far worſe then a ſpright.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen unto the Cupboard Peel-garlick muſt hye,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ſeek for the Cruſts that are mouldy and dry:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen ſteep them in skim-milk until they are wet,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> commonly this is the Supper I get.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:31808:12" rendition="simple:additions"/>
+                  <l>Nay once in a quarter, for meer faſhion ſake,</l>
+                  <l>ſhe'l then give me leave for to lye in her bed,</l>
+                  <l>But I muſt be ſure for to lye broad awake,</l>
+                  <l>leſt ſhe in her humours knock me on the head.</l>
+               </lg>
+               <lg>
+                  <l>But as for the Bed which I lye on my ſelf,</l>
+                  <l>It is full as ſoft as an old Oaken Shelf;</l>
+                  <l>The Ticks ſhe did make it of coarſe hempen hurds,</l>
+                  <l>And yet for all that I muſt give her good words.</l>
+               </lg>
+               <lg>
+                  <l>We uſually piſt in a Pan ev'ry night,</l>
+                  <l>the Cullender hapned to ſtand in the place,</l>
+                  <l>She put me into a moſt pittiful plight.</l>
+                  <l>It run all about both my ſtomach and face.</l>
+               </lg>
+               <lg>
+                  <l>I told her ſweet Wife, you do Vrine beſide,</l>
+                  <l>She called me Corcomb, and told me I ly'd;</l>
+                  <l>How can it run over before it is come</l>
+                  <l>So near to the top as the length of my Thumb?</l>
+               </lg>
+               <lg>
+                  <l>A Cudgel of Holly I then did prepare,</l>
+                  <l>then lawful correction to her I did give,</l>
+                  <l>O then ſhe cry'd out, I prithee forbear,</l>
+                  <l>I ne'r will my Husband offend while I live.</l>
+               </lg>
+               <lg>
+                  <l>I made her forſake all her Goſſpping Crue,</l>
+                  <l>and thus I have handſomely turned the chaſe</l>
+                  <pb facs="tcp:31808:12" rendition="simple:additions"/>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> now it is husband, pray how doſt thou do,</l>
+                  <l>but before it was Cuckold and Rogue to my face,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d thus I muſt tell you I conquer'd a Shrew,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d made her to buckle and bend to my bow,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e formerly liv'd at much variance and ſtrife,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t now we enjoy a more peaceable life.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he dear and tender parting of <hi>William</hi> and <hi>Betty:</hi> Being the Seamans faithful promiſe of being true and Loyal.</head>
+               <opener>To the Tune of, <hi>The Country Farmer.</hi>
+               </opener>
+               <lg>
+                  <l>MY pritty ſweet <hi>Betty,</hi> lo here is my hand,</l>
+                  <l>I now am for ſailing and leaving the Land;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t prithee my deareſt take this not amiſs,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt let me enjoy of thee one loving kiſs:</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pureſt affection I mean to maintain,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> when I return from the bluſtring Main,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen thou ſhalt receive all the profit and gain,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pritty ſweet creature, then ceaſe to complain.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his tydings is grievous, alas to my ear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhall I be able to part with my dear,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hole vollys of ſighs from my heart I ſhall ſend,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> think of thoſe perils that daily attend,</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Love when thou art many leagues from the ſhore</l>
+                  <pb facs="tcp:31808:13" rendition="simple:additions"/>
+                  <l>In ſtorms and in tempeſts, when Billows do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>My fear will be that I ſhall ne'r ſee thee more,</l>
+                  <l>Sweet <hi>William</hi> whom I do ſo dearly adore.</l>
+                  <l>Let none of thoſe jealouſies trouble thy mind,</l>
+                  <l>I fear not but Fortune to me will prove kind,</l>
+                  <l>For why, I have uſed the Seas from my Youth</l>
+                  <l>Therefore by experience, I know of a truth,</l>
+                  <l>If Heaven is pleaſed our Veſſel to ſtear,</l>
+                  <l>Though Billows be roaring, yet there is no fe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>We have as much ſafety as thoſe that are here,</l>
+                  <l>Therefore my ſweet jewel be thou of good chear<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Though we are divided, I always will prove,</l>
+                  <l>Both faithful and loyal, and true to my love:</l>
+                  <l>Though to forreign Nations abroad I muſt ro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Yet many fine preſents to thee i'le bring home.</l>
+                  <l>I to the <hi>Eaſt-Indies</hi> a Voyage muſt take,</l>
+                  <l>Then here is my Ring, I would have you to ta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>And alſo to keep it love, ſafe for my ſake,</l>
+                  <l>In token I never my promiſe will break.</l>
+                  <l>And now my dear love I muſt bid thee adieu,</l>
+                  <l>Our Captain and Bouſon, and all the Ship<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Are ready for ſailing, and I muſt away,</l>
+                  <l>With thee I dare treſpaſs no longer to ſtay:</l>
+                  <l>Well, if thou art going, the Damſel reply'd,</l>
+                  <l>The Heavens protect thee and ſtill be thy g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>And guard thee my jewel, from dangerous <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>And bring thee in ſafety home into my Arms.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31808:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
